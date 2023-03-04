@@ -1,0 +1,11 @@
+take hammer on floor
+take the paper
+open the paper
+use the 'BB hammer ani' to ring each bell one time
+
+the solution for the door to open is to hit the one on top left
+3 times then the one on top right 4 times
+then the one on bottom right two times
+and finally 6 times on the bottom left
+
+after this the door open
